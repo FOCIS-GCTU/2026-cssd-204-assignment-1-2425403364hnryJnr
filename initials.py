@@ -2,7 +2,7 @@
 # Description: Print out my initials.
 # Assignment Number: 1
 #
-# Name: Henry Brandford-Arthur
+# Name: Henry Brandford-Arthur Junior 
 # STUDENT ID: 2425403364
 # Email: 2425403364@live.gctu.edu.gh
 # Grader:mr. Augustus Buckman
